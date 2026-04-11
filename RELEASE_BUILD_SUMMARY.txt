@@ -1,0 +1,27 @@
+Files added for full release packaging:
+- app.ico
+- version_info.txt
+- app.manifest
+
+Configured hiddenimports:
+- matplotlib
+- matplotlib.backends.backend_qt5agg
+- matplotlib.backends.backend_agg
+- numpy
+- dxcam
+- watchdog
+- watchdog.observers
+- watchdog.events
+- win32api
+- win32con
+- win32gui
+- win32com
+- win32com.client
+- pythoncom
+- pywintypes
+
+PyQt5 enhancements:
+- collect_dynamic_libs('PyQt5')
+- collect_data_files('PyQt5')
+- manual Qt plugin folder inclusion
+- optional translations inclusion

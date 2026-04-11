@@ -1,0 +1,20 @@
+This is the Python 3.13 full release packaging edition.
+
+Included:
+1. Enhanced build.spec with common hiddenimports
+2. Qt plugin folders manually collected
+3. app.ico added and wired into the build
+4. version_info.txt added and wired into the build
+5. app.manifest added and wired into the build
+6. Admin privilege prompt enabled (uac_admin=True)
+7. No console window enabled (console=False)
+
+Current release defaults:
+- Output name: CS2_RCS_Tool.exe
+- One-file build
+- No console window
+- Requires administrator permission at launch
+
+If you want a debug build later:
+- change console=False to console=True in build.spec
+- rebuild with build.bat
