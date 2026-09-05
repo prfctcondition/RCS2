@@ -1,7 +1,7 @@
 {
     "game_sensitivity": 1.7,
     "gsi": {
-        "enabled": true,
+        "enabled": false,
         "auto_weapon_switch": true,
         "auto_rcs_control": true,
         "low_ammo_threshold": 5,
