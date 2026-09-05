@@ -1,9 +1,0 @@
-Python 3.13 Enhanced Spec Summary
-
-The spec has been upgraded to manually collect common Qt plugin directories and
-PyQt5 dynamic libraries. This improves the success rate for one-file packaging
-under Python 3.13, especially for Qt platform plugin discovery.
-
-Keep console=True for the first successful verification build.
-After confirming the exe runs correctly, you can change console=True to
-console=False in build.spec and rebuild.
