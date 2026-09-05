@@ -1,8 +1,3 @@
-Косяк понял. Вложенные блоки кода (тройные обратные кавычки внутри тройных кавычек) ломали разметку Markdown, из-за чего сообщение обрывалось прямо на установке зависимостей.
-
-Чтобы файл забирался полностью в один клик, держи текст без вложенного кода — просто скопируй всё из блока ниже:
-
-```text
 # CS2 Recoil Control System (RCS) & Auto-Stop Macro
 
 A lightweight, high-performance Recoil Control System (RCS) and movement utility for **Counter-Strike 2**, featuring automatic weapon detection, low-level input simulation, and fully customizable keybinds.
@@ -59,5 +54,3 @@ start.bat
 ## 📄 License & Disclaimer
 
 Educational purposes only. Use at your own risk.
-
-```
