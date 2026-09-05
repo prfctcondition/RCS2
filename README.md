@@ -42,15 +42,6 @@ start.bat
 
 ---
 
-## 🎮 Hotkeys & Controls
-
-| Key / Control | Function |
-| :--- | :--- |
-| **Insert** | Toggle UI Overlay Visibility (Show / Hide) |
-| **Configure Keybinds** | Open in-app dialog to set custom hotkeys for weapons & RCS |
-
----
-
 ## 📄 License & Disclaimer
 
 Educational purposes only. Use at your own risk.
