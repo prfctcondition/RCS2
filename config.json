@@ -1,10 +1,5 @@
 {
-    "game_sensitivity": 1.2,
-    "features": {
-        "tts_enabled": true,
-        "bomb_timer_enabled": true,
-        "auto_accept_enabled": false
-    },
+    "game_sensitivity": 1.7,
     "gsi": {
         "enabled": true,
         "auto_weapon_switch": true,
@@ -12,11 +7,6 @@
         "low_ammo_threshold": 5,
         "server_host": "127.0.0.1",
         "server_port": 59873
-    },
-    "hotkeys": {
-        "exit": "F4",
-        "toggle_recoil": "INSERT",
-        "toggle_weapon_detection": "HOME"
     },
     "weapons": [
         {
