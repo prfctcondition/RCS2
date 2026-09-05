@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+pynput>=1.7.6
+pywin32>=305
+requests>=2.31.0
