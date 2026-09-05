@@ -1,2 +1,0 @@
-Fixed build.spec: replaced Tree(...) objects in binaries/datas with two-tuple wildcard entries.
-Reason: Analysis expects binaries/datas entries shaped like (source_glob, target_dir).
